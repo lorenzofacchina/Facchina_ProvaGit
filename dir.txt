@@ -1,0 +1,6 @@
+16/10/2021  09:21    <DIR>          .
+16/10/2021  09:21    <DIR>          ..
+16/10/2021  09:20                31 info.txt
+16/10/2021  09:17                57 README.md
+               2 File             88 byte
+               2 Directory  29.206.241.280 byte disponibili
